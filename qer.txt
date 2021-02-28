@@ -1,0 +1,60 @@
+1.   CORPULENT
+A.	Lean
+B.	Gaunt
+C.	Emaciated
+D.	Obese
+D
+2.   BRIEF
+A.	Limited
+B.	Small
+C.	Little
+D.	Short
+D
+3.   EMBEZZLE
+A.	Misappropriate
+B.	Balance
+C.	Remunerate
+D.	Clear
+A
+4.   VENT
+A.	Opening
+B.	Stodge
+C.	End
+D.	Past tense of go
+A
+5.   AUGUST
+A.	Common
+B.	Ridiculous
+C.	Dignified
+D.	Petty 	
+C
+6.   WARRIOR
+A.	Soldier
+B.	Sailor
+C.	Pirate
+D.	Spy
+A
+7.   DISTANT
+A.	Far
+B.	Removed
+C.	Reserved
+D.	Separate
+A
+8.   ADVERSITY
+A.	Failure
+B.	Helplessness
+C.	Misfortune
+D.	Crisis
+C
+9.   FAKE
+A.	Original
+B.	Imitation
+C.	Trustworthy
+D.	Loyal
+B
+10.   INDICT
+A.	Condemn
+B.	Reprimand
+C.	Accuse
+D.	Allege
+C
